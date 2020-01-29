@@ -11,7 +11,7 @@ interface NavLink {
 const links: NavLink[] = [
     { href: "/", label: "Home" },
     { href: "/investment-philosophy", label: "Investment Philosophy" },
-    { href: "/investor-letters", label: "Investor Leters" },
+    // { href: "/investor-letters", label: "Investor Leters" },
     { href: "/contact", label: "Contact" },
 ]
 

@@ -10970,29 +10970,7 @@ var Contact = function Contact() {
       lineNumber: 27
     },
     __self: this
-  }, "cernockymichal@gmail.com")), __jsx("li", {
-    className: "mb2",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 33
-    },
-    __self: this
-  }, "Phone:", " ", __jsx("a", {
-    href: "tel:+420739720618",
-    className: "no-underline black dib bb b--dotted bt-0 bl-0 br-0 dim",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35
-    },
-    __self: this
-  }, "+ 420 739 720 618"))), __jsx("p", {
-    className: "mt4 i lh-copy measure-wide",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 42
-    },
-    __self: this
-  }, "\u2014 \u201COur primary focus is the long-term preservation of capital while seeking to compound capital at above-average returns over a full market cycle.\u201D"))))));
+  }, "cernockymichal@gmail.com"))))))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Contact);
@@ -11014,8 +10992,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_div_100vh__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-div-100vh */ "./node_modules/react-div-100vh/lib/index.js");
 /* harmony import */ var react_div_100vh__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_div_100vh__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _Nav__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Nav */ "./src/components/Nav.tsx");
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_3__);
 var _jsxFileName = "/Users/jiridolinski/work/cernocky-fond-app/src/components/Layout.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0__["createElement"];
+
 
 
 
@@ -11027,55 +11008,69 @@ var Layout = function Layout(props) {
     className: "flex flex-column main-bg-image bg-white black min-vh-100",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10
+      lineNumber: 11
     },
     __self: this
   }, __jsx("div", {
     className: "flex flex-auto flex-column",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
+      lineNumber: 14
     },
     __self: this
   }, __jsx("div", {
     className: "flex-ns db justify-between bg-white pa3 pv4-ns ph5-ns ph4-m",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
+      lineNumber: 15
     },
     __self: this
   }, __jsx("h1", {
     className: "f4 f5-m normal tracked-tight flex-auto mt2 mb3 mb3-ns mt0-ns mv1-ns ma0-ns",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
+      lineNumber: 16
     },
     __self: this
-  }, "Cernocky Capital"), __jsx(_Nav__WEBPACK_IMPORTED_MODULE_2__["Nav"], {
+  }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_3___default.a, {
+    href: "/",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }, __jsx("a", {
+    className: "black no-underline",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18
+    },
+    __self: this
+  }, "Cernocky Capital"))), __jsx(_Nav__WEBPACK_IMPORTED_MODULE_2__["Nav"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
     },
     __self: this
   })), __jsx("div", {
     className: "flex-auto flex flex-column",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
+      lineNumber: 24
     },
     __self: this
   }, props.children)), __jsx("footer", {
     className: "bg-black white tl tr-ns w-100 pv2 ph3 pv3-ns ph5-ns f7 ph4-m",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
+      lineNumber: 27
     },
     __self: this
   }, __jsx("p", {
     className: "pa0 ma0",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
+      lineNumber: 28
     },
     __self: this
   }, "\xA9 2019 Cernocky Capital\xA0\xA0|\xA0\xA0All Rights Reserved")));
@@ -11113,10 +11108,8 @@ var links = [{
 }, {
   href: "/investment-philosophy",
   label: "Investment Philosophy"
-}, {
-  href: "/investor-letters",
-  label: "Investor Leters"
-}, {
+}, // { href: "/investor-letters", label: "Investor Leters" },
+{
   href: "/contact",
   label: "Contact"
 }];

@@ -30,20 +30,7 @@ const Contact = () => {
                                         cernockymichal@gmail.com
                                     </a>
                                 </li>
-                                <li className="mb2">
-                                    Phone:{" "}
-                                    <a
-                                        href="tel:+420739720618"
-                                        className="no-underline black dib bb b--dotted bt-0 bl-0 br-0 dim">
-                                        + 420 739 720 618
-                                    </a>
-                                </li>
                             </ul>
-                            <p className="mt4 i lh-copy measure-wide">
-                                — “Our primary focus is the long-term preservation of capital while
-                                seeking to compound capital at above-average returns over a full
-                                market cycle.”
-                            </p>
                         </div>
                     </SectionContainer>
                 </WhiteContainer>
