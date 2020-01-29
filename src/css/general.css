@@ -1,3 +1,7 @@
+body {
+    font-family: "TeXGyreTermes", sans-serif;
+}
+
 font {
     text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
     text-rendering: optimizeLegibility !important;
@@ -5,7 +9,7 @@ font {
 }
 
 .main-bg-image {
-    background-image: url("../assets/bg.jpg");
+    background-image: url("/images/bg.jpg");
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: 100% auto;

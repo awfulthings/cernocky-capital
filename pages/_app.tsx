@@ -1,6 +1,7 @@
 import * as React from "react"
 import NextApp from "next/app"
 import "../node_modules/tachyons/css/tachyons.min.css"
+import "../src/css/webfont.css"
 import "../src/css/animate.css"
 import "../src/css/general.css"
 

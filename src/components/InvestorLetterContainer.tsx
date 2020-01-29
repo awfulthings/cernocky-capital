@@ -1,5 +1,4 @@
 import * as React from "react"
-import letter from "../assets/letter.png"
 
 interface Props {
     children: React.ReactNode
