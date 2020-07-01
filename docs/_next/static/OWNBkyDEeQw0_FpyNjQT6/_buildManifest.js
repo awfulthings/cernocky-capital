@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a){return {"/":[a],"/contact":[a],"/index":[a],"/investment-philosophy":[a],"/investor-letters":[a]}}("static\u002Fchunks\u002F894e82400a9ce9369e43818a43a40eb242b5f017.f453f120a240e2022683.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

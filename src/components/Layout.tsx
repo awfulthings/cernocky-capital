@@ -15,7 +15,7 @@ export const Layout: React.FC = (props: Props) => (
             <div className="flex-ns db justify-between bg-white pa3 pv4-ns ph5-ns ph4-m">
                 <h1 className="f4 f5-m normal tracked-tight flex-auto mt2 mb3 mb3-ns mt0-ns mv1-ns ma0-ns">
                     <Link href="/">
-                        <a className="black no-underline">Cernocky Capital</a>
+                        <a className="black no-underline">Cernocky</a>
                     </Link>
                 </h1>
                 <Nav />
@@ -26,7 +26,7 @@ export const Layout: React.FC = (props: Props) => (
         {/* Footer */}
         <footer className="bg-black white tl tr-ns w-100 pv2 ph3 pv3-ns ph5-ns f7 ph4-m">
             <p className="pa0 ma0">
-                © 2019 Cernocky Capital&nbsp;&nbsp;|&nbsp;&nbsp;All Rights Reserved
+                © 2019 Cernocky &nbsp;&nbsp;|&nbsp;&nbsp;All Rights Reserved
             </p>
         </footer>
     </Div100vh>

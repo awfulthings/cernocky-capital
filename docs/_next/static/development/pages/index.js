@@ -4828,12 +4828,12 @@ module.exports = bind.call(Function.call, Object.prototype.hasOwnProperty);
 
 /***/ "./node_modules/next/dist/build/polyfills/object-assign.js":
 /*!***********************************************************************************************************************!*\
-  !*** delegated ./node_modules/next/dist/build/polyfills/object-assign.js from dll-reference dll_8500b27d8243bc6c1979 ***!
+  !*** delegated ./node_modules/next/dist/build/polyfills/object-assign.js from dll-reference dll_409186dfd1b6b64b1c64 ***!
   \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_8500b27d8243bc6c1979 */ "dll-reference dll_8500b27d8243bc6c1979"))("./node_modules/next/dist/build/polyfills/object-assign.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_409186dfd1b6b64b1c64 */ "dll-reference dll_409186dfd1b6b64b1c64"))("./node_modules/next/dist/build/polyfills/object-assign.js");
 
 /***/ }),
 
@@ -4849,10 +4849,10 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fjiridolinski%2Fwork%2Fcernocky-fond-app%2Fpages%2Findex.tsx!./":
-/*!***********************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fjiridolinski%2Fwork%2Fcernocky-fond-app%2Fpages%2Findex.tsx ***!
-  \***********************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fdaliborcernocky%2Fcernocky-capital%2Fpages%2Findex.tsx!./":
+/*!******************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fdaliborcernocky%2Fcernocky-capital%2Fpages%2Findex.tsx ***!
+  \******************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7624,12 +7624,12 @@ module.exports = exports['default'];
 
 /***/ "./node_modules/prop-types/checkPropTypes.js":
 /*!*********************************************************************************************************!*\
-  !*** delegated ./node_modules/prop-types/checkPropTypes.js from dll-reference dll_8500b27d8243bc6c1979 ***!
+  !*** delegated ./node_modules/prop-types/checkPropTypes.js from dll-reference dll_409186dfd1b6b64b1c64 ***!
   \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_8500b27d8243bc6c1979 */ "dll-reference dll_8500b27d8243bc6c1979"))("./node_modules/prop-types/checkPropTypes.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_409186dfd1b6b64b1c64 */ "dll-reference dll_409186dfd1b6b64b1c64"))("./node_modules/prop-types/checkPropTypes.js");
 
 /***/ }),
 
@@ -8264,12 +8264,12 @@ if (true) {
 
 /***/ "./node_modules/prop-types/lib/ReactPropTypesSecret.js":
 /*!*******************************************************************************************************************!*\
-  !*** delegated ./node_modules/prop-types/lib/ReactPropTypesSecret.js from dll-reference dll_8500b27d8243bc6c1979 ***!
+  !*** delegated ./node_modules/prop-types/lib/ReactPropTypesSecret.js from dll-reference dll_409186dfd1b6b64b1c64 ***!
   \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_8500b27d8243bc6c1979 */ "dll-reference dll_8500b27d8243bc6c1979"))("./node_modules/prop-types/lib/ReactPropTypesSecret.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_409186dfd1b6b64b1c64 */ "dll-reference dll_409186dfd1b6b64b1c64"))("./node_modules/prop-types/lib/ReactPropTypesSecret.js");
 
 /***/ }),
 
@@ -9269,12 +9269,12 @@ if (false) {} else {
 
 /***/ "./node_modules/react/index.js":
 /*!*******************************************************************************************!*\
-  !*** delegated ./node_modules/react/index.js from dll-reference dll_8500b27d8243bc6c1979 ***!
+  !*** delegated ./node_modules/react/index.js from dll-reference dll_409186dfd1b6b64b1c64 ***!
   \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_8500b27d8243bc6c1979 */ "dll-reference dll_8500b27d8243bc6c1979"))("./node_modules/react/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_409186dfd1b6b64b1c64 */ "dll-reference dll_409186dfd1b6b64b1c64"))("./node_modules/react/index.js");
 
 /***/ }),
 
@@ -10865,7 +10865,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ "./node_modules/next/dist/next-server/lib/head.js");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _src_components_Layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../src/components/Layout */ "./src/components/Layout.tsx");
-var _jsxFileName = "/Users/jiridolinski/work/cernocky-fond-app/pages/index.tsx";
+var _jsxFileName = "/Users/daliborcernocky/cernocky-capital/pages/index.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -10890,7 +10890,7 @@ var Home = function Home() {
       lineNumber: 8
     },
     __self: this
-  }, "Home - Cernocky Capital")), __jsx(_src_components_Layout__WEBPACK_IMPORTED_MODULE_2__["Layout"], {
+  }, "Home - Cernocky")), __jsx(_src_components_Layout__WEBPACK_IMPORTED_MODULE_2__["Layout"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
@@ -10962,7 +10962,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Nav__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Nav */ "./src/components/Nav.tsx");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/jiridolinski/work/cernocky-fond-app/src/components/Layout.tsx";
+var _jsxFileName = "/Users/daliborcernocky/cernocky-capital/src/components/Layout.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0__["createElement"];
 
 
@@ -11014,7 +11014,7 @@ var Layout = function Layout(props) {
       lineNumber: 18
     },
     __self: this
-  }, "Cernocky Capital"))), __jsx(_Nav__WEBPACK_IMPORTED_MODULE_2__["Nav"], {
+  }, "Cernocky"))), __jsx(_Nav__WEBPACK_IMPORTED_MODULE_2__["Nav"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 21
@@ -11041,7 +11041,7 @@ var Layout = function Layout(props) {
       lineNumber: 28
     },
     __self: this
-  }, "\xA9 2019 Cernocky Capital\xA0\xA0|\xA0\xA0All Rights Reserved")));
+  }, "\xA9 2019 Cernocky \xA0\xA0|\xA0\xA0All Rights Reserved")));
 };
 
 /***/ }),
@@ -11064,7 +11064,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! next/router */ "./node_modules/next/dist/client/router.js");
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/jiridolinski/work/cernocky-fond-app/src/components/Nav.tsx";
+var _jsxFileName = "/Users/daliborcernocky/cernocky-capital/src/components/Nav.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -11114,28 +11114,28 @@ var Nav = function Nav() {
 
 /***/ }),
 
-/***/ 3:
-/*!***************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fjiridolinski%2Fwork%2Fcernocky-fond-app%2Fpages%2Findex.tsx ***!
-  \***************************************************************************************************************************************/
+/***/ 1:
+/*!**********************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fdaliborcernocky%2Fcernocky-capital%2Fpages%2Findex.tsx ***!
+  \**********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fjiridolinski%2Fwork%2Fcernocky-fond-app%2Fpages%2Findex.tsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fjiridolinski%2Fwork%2Fcernocky-fond-app%2Fpages%2Findex.tsx!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fdaliborcernocky%2Fcernocky-capital%2Fpages%2Findex.tsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fdaliborcernocky%2Fcernocky-capital%2Fpages%2Findex.tsx!./");
 
 
 /***/ }),
 
-/***/ "dll-reference dll_8500b27d8243bc6c1979":
+/***/ "dll-reference dll_409186dfd1b6b64b1c64":
 /*!*******************************************!*\
-  !*** external "dll_8500b27d8243bc6c1979" ***!
+  !*** external "dll_409186dfd1b6b64b1c64" ***!
   \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = dll_8500b27d8243bc6c1979;
+module.exports = dll_409186dfd1b6b64b1c64;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

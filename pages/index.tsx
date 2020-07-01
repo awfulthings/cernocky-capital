@@ -5,7 +5,7 @@ import { Layout } from "../src/components/Layout"
 const Home = () => (
     <div>
         <Head>
-            <title>Home - Cernocky Capital</title>
+            <title>Home - Cernocky</title>
         </Head>
         <Layout>
             <div className="ph3 pt4 pt5-ns ph5-ns ph4-m">
